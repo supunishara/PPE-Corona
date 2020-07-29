@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517835404269",
+    "firebase_url": "https://ppecrisis.firebaseio.com",
+    "project_id": "ppecrisis",
+    "storage_bucket": "ppecrisis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517835404269:android:1e74b6c41c6b6e045b6de4",
+        "android_client_info": {
+          "package_name": "com.ppe_crisis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517835404269-dn03qom3hk57s6kpsu0udm297cn4fhec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ppe_crisis",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "517835404269-il9rp7vrno614cnev71t1ec2959imol1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8A-aripBT1Fj4Cq5QxvrgG7Kb4VGQmp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517835404269-il9rp7vrno614cnev71t1ec2959imol1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
